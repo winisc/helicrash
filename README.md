@@ -1,2 +1,2 @@
 # helicrash
-Using flexible zones to control actions using the oxylib framework
+Automatic helicrash resource in conjunction with the creation of modulable pvps zones for creative nw v5
